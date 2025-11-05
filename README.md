@@ -1,4 +1,4 @@
-# 🏪 Shop System (Test Task) — Senior Unity Developer
+# 🏪 Shop System (Test Task) - Senior Unity Developer
 
 ### Overview
 
@@ -51,7 +51,7 @@ UI communicates with controllers inside each domain via events. The Shop view dy
 
 ### 5. Extensibility
 
-Adding a new domain (e.g., Leaderboard or Energy) requires **no modifications to Shop or Core**—only implementation of new operations in the new domain.
+Adding a new domain (e.g., Leaderboard or Energy) requires **no modifications to Shop or Core** - only implementation of new operations in the new domain.
 
 ---
 
@@ -79,7 +79,7 @@ Adding a new domain (e.g., Leaderboard or Energy) requires **no modifications to
 
 ## 👨‍💻 Author
 
-**Andrii Shaposhnykov** — Senior Unity Developer / Technical Architect
+**Andrii Shaposhnykov** - Senior Unity Developer / Technical Architect
 
 * 5+ years of commercial experience
 * 2 years of prototyping in multiple teams
@@ -108,4 +108,4 @@ Scripts/
 
 ### ✅ Result
 
-This solution demonstrates a **clean modular gameplay framework**, ready for rapid feature addition and designer‑driven content creation — all within isolated Unity assemblies and a testable, maintainable architecture.
+This solution demonstrates a **clean modular gameplay framework**, ready for rapid feature addition and designer‑driven content creation - all within isolated Unity assemblies and a testable, maintainable architecture.
