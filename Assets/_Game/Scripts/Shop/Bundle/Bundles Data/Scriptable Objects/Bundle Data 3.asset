@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff74dfcfca154d42ad9ae30801561a66, type: 3}
+  m_Name: Bundle Data 3
+  m_EditorClassIdentifier: 
+  _rewards:
+  - Operation: {fileID: 11400000, guid: 3784bda1e641a124ab64012436ebc5cc, type: 2}
+    Parameter:
+      rid: 9063764236832079994
+  - Operation: {fileID: 11400000, guid: 8783a633fe642f1468eda10e71bc3292, type: 2}
+    Parameter:
+      rid: 9063764236832079995
+  - Operation: {fileID: 11400000, guid: 5884f2b5c6a472a4a962426dbbdffb06, type: 2}
+    Parameter:
+      rid: -2
+  - Operation: {fileID: 11400000, guid: 7d260b1369a8bd24a98827804f1ee0ec, type: 2}
+    Parameter:
+      rid: 9063764236832079996
+  _costs:
+  - Operation: {fileID: 11400000, guid: 10fb02b970f639845aeff7fad6089f6e, type: 2}
+    Parameter:
+      rid: 9063764236832079998
+  - Operation: {fileID: 11400000, guid: 8231bb21c3f4f4c41a1616e3be01ab47, type: 2}
+    Parameter:
+      rid: 9063764236832079999
+  - Operation: {fileID: 11400000, guid: 7b047ffbd64bb4341a26d76cb1f29987, type: 2}
+    Parameter:
+      rid: -2
+  - Operation: {fileID: 11400000, guid: bc1353b4521ac584d8429c9580f35699, type: 2}
+    Parameter:
+      rid: 9063764236832080000
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 9063764236832079994
+      type: {class: IntAmountParameter, ns: Core, asm: Core}
+      data:
+        Amount: 10
+    - rid: 9063764236832079995
+      type: {class: IntAmountParameter, ns: Core, asm: Core}
+      data:
+        Amount: 10
+    - rid: 9063764236832079996
+      type: {class: IntAmountParameter, ns: Core, asm: Core}
+      data:
+        Amount: 20
+    - rid: 9063764236832079998
+      type: {class: IntAmountParameter, ns: Core, asm: Core}
+      data:
+        Amount: 5
+    - rid: 9063764236832079999
+      type: {class: IntAmountParameter, ns: Core, asm: Core}
+      data:
+        Amount: 5
+    - rid: 9063764236832080000
+      type: {class: IntAmountParameter, ns: Core, asm: Core}
+      data:
+        Amount: 10
