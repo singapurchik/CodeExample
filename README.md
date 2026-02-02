@@ -77,17 +77,6 @@ Adding a new domain (e.g., Leaderboard or Energy) requires **no modifications to
 
 ---
 
-## 👨‍💻 Author
-
-**Andrii Shaposhnykov** - Senior Unity Developer / Technical Architect
-
-* 5+ years of commercial experience
-* 2 years of prototyping in multiple teams
-* 7 months as lead developer & process controller at **Game Box (Dubai)**
-* 2 solo‑developed titles with 1M+ downloads each (*Clone Wars Arena*, *ZooHorror*)
-
----
-
 ### 📂 Folder Structure Example
 
 ```
