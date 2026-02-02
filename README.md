@@ -1,4 +1,4 @@
-# 🏪 Shop System (Test Task) - Senior Unity Developer
+# 🏪 Shop System (Test Task) - Unity Developer
 
 ### Overview
 
